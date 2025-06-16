@@ -1,0 +1,20 @@
+{
+  "name": "javaassincrono",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoraraujocode/JavaAssincrono.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoraraujocode/JavaAssincrono/issues"
+  },
+  "homepage": "https://github.com/vitoraraujocode/JavaAssincrono#readme",
+  "description": ""
+}
